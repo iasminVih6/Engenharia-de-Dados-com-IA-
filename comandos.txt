@@ -1,0 +1,31 @@
+#COMANDOS PANDAS
+---------------------------------------------------------------------------------------------------------------------------------------------
+df = pd.read_csv('dado aqui') // armazena os dados na variavel "df"
+
+df.info() // mostra todas os nomes das tabelas e seus tipos de valores que contém
+
+df.isnull() // mostra onde tem campos vazios
+
+df.isnull().sum() // soma os valores nulos que contem em cada coluna
+
+df ['id_usuario'] = df['id_usuario'].fillna('USUARIO DESCONHECIDO') // substitui o nome de usuario de onde contem valores num na coluna
+
+df[df['id_usuario'] == 'USUARIO DESCONHECIDO'] // filtrar apenas dados que contem esse nome
+
+
+#COMANDOS SQL
+-----------------------------------------------------------------------------------------------------------------------------
+
+spark.createDataFrame(df).createOrReplaceTempView('dados') // cria uma tabela temporária no spark
+
+SELECT * FROM dados LIMIT 5 // comando para mostrar determinadas linhas
+
+
+#EM QUE MOMENTOS DEVEMOS USAR PANDAS/PYTHON, SQL OU SPARK 
+----------------------------------------------------------------------------------------------------------------------------
+
+PYTHON = Quando precisar limpar, tratar e manipular os dados de uma forma flexivel. Linha a linha, coluna por coluna
+
+SQL = Quando preciso de uma consulta, filtrar, agregar dados de uma maneira facil e declarativas. De uma forma que responda perguntas relacionadas ao negócio
+
+SPARK = Quando o volume de dados é maior que a memória de uma máquina. Precisando processar em pararelo, distribuir em vários computadores

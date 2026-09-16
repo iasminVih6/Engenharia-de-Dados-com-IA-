@@ -1,2 +1,26 @@
 #CAMADA SILVER
-//Governancia e auditoria dos dados - momento de mexer nos dados
+//Governancia e auditoria dos dados - dar qualidade aos dados 
+
+#META DADO 
+// DAR CONTEXTO, DADO SOBRE O DADOS, DARMOS CONTEXTO PARA A IA 
+
+#AVALIE O CONTEXTO 
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+#BRONZE PRONTO: OS DADOS ESTAREM NO AMBIENTE
+#SILVER: OS DADOS ESTAREM COM QUALIDADE E CAPACIDADE DE SEREM USADOS NO NEGÓCIO 
+
+#Uma boa análise  de dados ela transforma o negócio como um todo -- Agnes
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+#O QUE É FAZER UM CAST:
+//transformar o dado. Mudar a tipagem do dado, por exemplo de string para date.
+
+-----------------------------------------------------------------------------------------------------------------------------------´---------------------
+#CTE DENTRO DO SQL 
+//faz parte di padrão ANSI, é uma gestão de tabelas temporárias no inicio da preparação. Ela funciona como uma tabela virtual que existe apenas durante a execução daquela instrução principal
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#FIZEMOS NESSA PRIMEIRA PARTE:
+//Normalizações, tipagens, colunas de diferenças dos atrasos 
+

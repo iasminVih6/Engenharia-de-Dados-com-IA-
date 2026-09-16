@@ -1,0 +1,25 @@
+#ANOTAÇÕES AULA 2
+-------------------------------------------------------------------------------------------------------------------------------------------
+# O que é um sparke e qual sua importancia:
+// É um mecanismo de processamento de dados distribuído de código aberto projetado para lidar com grandes volumes de dados (Big Data) com extrema velocidade
+//Grande foco: Ele conseguir resolver processamento de dados em alta escala, de forma rapida e eficiente
+
+#SQL - Linguagem fundamental
+
+--------------------------------------------------------------------------------------------------------------------
+#GENIE AGENTS
+-----------------------------------------------------------------------------------------------------------------------
+#PRECISA ENTENDER CONSUMOS VIA AGENTES
+
+#REUNE FERRAMENTAS DE IA PARA APOIAR ENG DE DADOS NO DATABRICK
+
+#PODEMOS USAR PARA O  DESENVILVIMENTO E ATE GERAR AGENTES FINAIS PARA RESPONDER PERGUNTAS DE NEGÓCIO
+
+-----------------------------------------------------------------------------------------------------------------------
+#CONTEXTO DO PROJETO 
+--------------------------------------------------------------------------------------------------------------------------------------
+FAZER UMA ANALISE SOBRE DADOS DE ATRASOS E CANCELAMENTOS NAS COMPANINHAS AERAR AO LONGOS DO ANOS USANDO UM DATASET DISPONIBILIZADO PELA ANAC
+
+//TEMOS QUE DAR A CAPACIDADE DO NEGÓCIO PERGUNTAR SOBRE DADOS DE ATRASADOS E CANCELAMENTOS
+
+

@@ -23,4 +23,7 @@
 
 #FIZEMOS NESSA PRIMEIRA PARTE:
 //Normalizações, tipagens, colunas de diferenças dos atrasos 
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 
+#GRANULARIDADE:
+//È o menor nivel da informação da tabela

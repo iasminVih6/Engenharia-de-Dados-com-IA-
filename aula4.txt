@@ -1,0 +1,13 @@
+#DIFERENÇA ENTRE VIEW E MATERIALIZADED VIEW: 
+//uma View comum é uma tabela virtual que executa a consulta SQL em tempo real a cada acesso, enquanto uma Materialized View armazena fisicamente o resultado da consulta em disco, funcionando como uma tabela em cache
+
+#VIEW 
+//muito usada para normalização de dados
+
+
+#CONSTRAIN 
+//Colocar na regra sql tudo que voce quer validar 
+
+#OBT - ONE BIG TABLE
+//TIPO DE MODELAGEM EM TRABALHAR OS DADOS NUMA UNICA TABELA
+

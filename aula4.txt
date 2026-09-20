@@ -11,3 +11,11 @@
 #OBT - ONE BIG TABLE
 //TIPO DE MODELAGEM EM TRABALHAR OS DADOS NUMA UNICA TABELA
 
+#CONCEITO DO PROCESSO: MARCADO, AUDITADO E QUARENTENA
+//Marcado: No fim queremos regras de qualidade e que essa regras nesse momento nao remove as linhas, e sim dizer os problemas
+//Quarentena: Dizer em quais linhas tem problemas
+
+#Camada GOLD: Cenário que coloca regra de negócio, pegar os dados e responder perguntas de negocio
+
+
+

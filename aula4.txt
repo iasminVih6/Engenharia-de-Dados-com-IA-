@@ -13,9 +13,10 @@
 
 #CONCEITO DO PROCESSO: MARCADO, AUDITADO E QUARENTENA
 //Marcado: No fim queremos regras de qualidade e que essa regras nesse momento nao remove as linhas, e sim dizer os problemas
-//Quarentena: Dizer em quais linhas tem problemas
+//Quarentena: Dizer em quais linhas tem problemas,
 
 #Camada GOLD: Cenário que coloca regra de negócio, pegar os dados e responder perguntas de negocio
 
 
-
+#PARTITION BY:
+//vai dividir os dados por uma chave, condição, ou seja distribuir esses arquivos

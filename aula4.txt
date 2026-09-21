@@ -20,3 +20,12 @@
 
 #PARTITION BY:
 //vai dividir os dados por uma chave, condição, ou seja distribuir esses arquivos
+
+Condições para Agentes IA entender os dados
+//Tag, contexto, comentários
+
+Condições para que os dados de origens tenha qualidade e garantir que os dados sejam verdadeiros
+// Condições que regras de qualidade, validações e mecanismos para proteger isso
+
+Condições para o usuario entenda os dados
+// Ajustes semanticos e preparação desses dados
